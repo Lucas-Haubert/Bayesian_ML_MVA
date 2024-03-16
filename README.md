@@ -12,9 +12,7 @@ This project is a comprehensive study and application of the paper titled "Varia
 
 ## Code and Experiments
 
-The code and methodologies implemented in this project are based on Mathis Hardion's GitHub repository:
-
-[Repository](https://github.com/mhardion/VARSGP)
+The code and methodologies implemented in this project are based on Mathis Hardion's GitHub [repository](https://github.com/mhardion/VARSGP):
 
 ## Acknowledgements
 
