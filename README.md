@@ -16,6 +16,6 @@ The code and methodologies implemented in this project are based on Mathis Hardi
 
 ## Acknowledgements
 
-I would like to acknowledge Professor Rémi Bardenet, ENS Paris-Saclay, for his course of Bayesian Machine Learning, part of the MVA master's program.
+I would like to acknowledge Professor [Rémi Bardenet](https://rbardenet.github.io/), ENS Paris-Saclay, for his course of Bayesian Machine Learning, part of the MVA master's program.
 
 I also thank [Mathis Hardion](https://www.linkedin.com/in/mathis-hardion-9658201bb/), Master MVA, for working with me on this project.
